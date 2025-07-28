@@ -5,6 +5,10 @@
     "vim.handleKeys": {
         "<C-c>": false,
         "<C-v>": false
-    }
-
+    },
+    "workbench.sideBar.location": "right",
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.formatOnSave": true,
+    "workbench.secondarySideBar.showLabels": false,
+    "workbench.activityBar.location": "top"
 }
